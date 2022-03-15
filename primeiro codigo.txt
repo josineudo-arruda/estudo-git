@@ -1,2 +1,6 @@
-Olá, bem-vindo ao site EcmaCript
-Digite seu usuário para entrar no programa:
+<h1>Olá, bem-vindo ao site EcmaCript</h1>
+<br>
+<p>Digite seu usuário para entrar no programa:</p>
+<input>
+<p>Digite a senha do usuário:</p>
+<input>
