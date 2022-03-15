@@ -1,10 +1,10 @@
-Bem-vindo ao seu perfil!!
+<h3>Bem-vindo ao seu perfil!!</h3>
 foto do usuário
-
+<img>
 
 Nome do usuário:
-
+//exemplo: 'Seu nome'
 Email do usuário:
+//exemplo:email.email@email.com
 
-
-Links profissionais
+<a>Links profissionais</a>
