@@ -1,0 +1,2 @@
+Olá, bem-vindo ao site EcmaCript
+Digite seu usuário para entrar no programa:
