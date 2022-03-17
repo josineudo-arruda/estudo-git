@@ -1,2 +1,2 @@
 # estudo-git
-Iniciando com estudos no doftware GitHub para a continuação no curso de lógica III. 
+Iniciando com estudos no software GitHub para a continuação no curso de lógica III. 
